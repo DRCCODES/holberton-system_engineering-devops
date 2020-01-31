@@ -12,6 +12,5 @@ does not take any options. However, you can supply studentname.
 .SH SEE ALSO
 .I peerlearning(2), projectbased(2), fullstack(2), Betty(1)=
 No known bugs.
->>>>>>> e21cd30e4335109ce5723d593b0da4062fd3d0f9
 .SH AUTHOR
 Julien Barbier, Sylvain Kalache, Sophie Barbier, Guillaume Salva, Kris Bredemeier, Julien Cyr, Alex Gautier and all the Holberton mentors
