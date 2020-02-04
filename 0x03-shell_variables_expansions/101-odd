@@ -1,2 +1,2 @@
 #!/bin/bash
-sed n\;g | tr -s "\n" | grep -v " "
+sed n\;d
